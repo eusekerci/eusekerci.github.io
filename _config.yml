@@ -1,17 +1,17 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Enes Ugur Sekerci
+url: eusekerci.com
+title: Enes Ugur Sekerci
+description: Personal Blog
 twitter:
-  username: #yourusername
+  username: eusekerci
   card: summary
-  creator: #yourusername
+  creator: Enes
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: eusekerci
+  name: Enes
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: enesugursekerci@gmail.com
+  url: eusekerci.com
 permalink: pretty
 
 baseurl: ""
