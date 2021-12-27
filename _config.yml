@@ -1,20 +1,20 @@
-site: Enes Ugur Sekerci
-url: www.eusekerci.com
-title: Enes Ugur Sekerci
-description: Enes Ugur Sekerci | Personal Website
+site: Sidey
+url: #yoururl
+title: Sidey
+description: Simple and minimalistic jekyll blogging theme.
 twitter:
-  username: eusekerci
+  username: #yourusername
   card: summary
-  creator: Enes
+  creator: #yourusername
 author:
-  twitter: eusekerci
-  name: Enes
+  twitter: #yourusername
+  name: #yourusername
   avatar:
-  email: enesugursekerci@gmail.com
-  url: eusekerci.com
+  email: #youremail
+  url: #yoururl
 permalink: pretty
 
-baseurl: "eusekerci.com"
+baseurl: ""
 
 highlighter: none
 
