@@ -4,5 +4,8 @@ layout: default
 
 <section class="post">
   {% capture about_content %}{% include_relative _pages/about.md %}{% endcapture %}
-  {{ about_content | remove_first: "---" | remove_first: "layout: page" | remove_first: "title: About Me" | remove_first: "---" | markdownify }}
+  {{ about_content | remove_first: '---
+layout: page
+title: Enes Ugur SEKERCI
+---' | markdownify }}
 </section>
