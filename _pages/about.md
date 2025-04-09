@@ -5,14 +5,10 @@ title: Enes Ugur SEKERCI
 
 Hey!
 
-I am Enes, yet another human being from Milky Way; more specifically, from Solar System, Planet Earth, was born in Turkey, currently live in Berlin, Germany.
+I am Enes, yet another human being from Milky Way; more specifically, from Solar System, Planet Earth, was born in Turkey, currently live in Berlin/Germany.
 
-I currently work as Game Developer at King, a company that well-known for candy crushing. (No, I am not creating new levels, but developing new game features)
+I work as a Software Engineer. I enjoy designing games, implementing cross platform applications and tools.
 
-You can find more info about me around here. If you seek more, please feel free to reach me out via mail or another channels 
-
-Enjoy your journey
-
--Enes
+You can find more info about me around here. Feel free to reach out via mail or other channels:
 
 E-mail: enesugursekerci at gmail dot com<br /><a href="resume.pdf">Resume</a> / <a href="https://www.linkedin.com/in/eusekerci/">LinkedIn</a> / <a href="https://github.com/eusekerci">GitHub</a>
