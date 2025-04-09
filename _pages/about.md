@@ -15,4 +15,4 @@ Enjoy your journey
 
 -Enes
 
-E-mail: enesugursekerci at gmail dot com<br /><a href="resume.pdf">Resume</a><br /><a href="https://www.linkedin.com/in/eusekerci/">LinkedIn</a> / <a href="https://github.com/eusekerci">GitHub</a>
+E-mail: enesugursekerci at gmail dot com<br /><a href="resume.pdf">Resume</a> / <a href="https://www.linkedin.com/in/eusekerci/">LinkedIn</a> / <a href="https://github.com/eusekerci">GitHub</a>
